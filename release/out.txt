@@ -1,0 +1,579 @@
+
+  on comence la traitement : 
+
+
+ inconsistenceSimple : 0
+
+ inconsistenceSimple : 1
+
+ inconsistenceSimple : 2
+
+ inconsistenceSimple : 3
+
+ inconsistenceSimple : 4
+
+ inconsistenceSimple : 5
+
+ inconsistenceSimple : 6
+
+ inconsistenceSimple : 7
+
+ inconsistenceSimple : 8
+
+ inconsistenceSimple : 9
+
+ inconsistenceSimple : 10
+
+ inconsistenceSimple : 11
+
+ inconsistenceSimple : 12
+
+ inconsistenceSimple : 13
+
+ inconsistenceSimple : 14
+
+ inconsistenceSimple : 15
+
+ inconsistenceSimple : 16
+
+ inconsistenceSimple : 17
+
+ inconsistenceSimple : 18
+
+ inconsistenceSimple : 19
+
+ inconsistenceSimple : 20
+
+ inconsistenceSimple : 21
+
+ inconsistenceSimple : 22
+
+ inconsistenceSimple : 23
+
+ inconsistenceSimple : 24
+
+ inconsistenceSimple : 25
+
+ inconsistenceSimple : 26
+
+ inconsistenceSimple : 27
+
+ inconsistenceSimple : 28
+
+ inconsistenceSimple : 29
+
+ inconsistenceSimple : 30
+
+ inconsistenceSimple : 31
+
+ inconsistenceSimple : 32
+
+ inconsistenceSimple : 33
+
+ inconsistenceSimple : 34
+
+ inconsistenceSimple : 35
+
+ inconsistenceSimple : 36
+
+ inconsistenceSimple : 37
+
+ inconsistenceSimple : 38
+
+ inconsistenceSimple : 39
+
+ inconsistenceSimple : 40
+
+ inconsistenceSimple : 41
+
+ inconsistenceSimple : 42
+
+ inconsistenceSimple : 43
+
+ inconsistenceSimple : 44
+
+ inconsistenceSimple : 45
+
+ inconsistenceSimple : 46
+
+ inconsistenceSimple : 47
+
+ inconsistenceSimple : 48
+
+ inconsistenceSimple : 49
+
+ inconsistenceSimple : 50
+
+ inconsistenceSimple : 51
+
+ inconsistenceSimple : 52
+
+ inconsistenceSimple : 53
+
+ inconsistenceSimple : 54
+
+ inconsistenceSimple : 55
+
+ inconsistenceSimple : 56
+
+ inconsistenceSimple : 57
+
+ inconsistenceSimple : 58
+
+ inconsistenceSimple : 59
+
+ inconsistenceSimple : 60
+
+ inconsistenceSimple : 61
+
+ inconsistenceSimple : 62
+
+ inconsistenceSimple : 63
+
+ inconsistenceSimple : 64
+
+ inconsistenceSimple : 65
+
+ inconsistenceSimple : 66
+
+ inconsistenceSimple : 67
+
+ inconsistenceSimple : 68
+
+ inconsistenceSimple : 69
+
+ inconsistenceSimple : 70
+
+ inconsistenceSimple : 71
+
+ inconsistenceSimple : 72
+
+ inconsistenceSimple : 73
+
+ inconsistenceSimple : 74
+
+ inconsistenceSimple : 75
+
+ inconsistenceSimple : 76
+
+ inconsistenceSimple : 77
+
+ inconsistenceSimple : 78
+
+ inconsistenceSimple : 79
+
+ inconsistenceSimple : 80
+
+ inconsistenceSimple : 81
+
+ inconsistenceSimple : 82
+
+ inconsistenceSimple : 83
+
+ inconsistenceSimple : 84
+
+ inconsistenceSimple : 85
+
+ inconsistenceSimple : 86
+
+ inconsistenceSimple : 87
+
+ inconsistenceSimple : 88
+
+ inconsistenceSimple : 89
+
+ inconsistenceSimple : 90
+
+ inconsistenceSimple : 91
+
+ inconsistenceSimple : 92
+
+ inconsistenceSimple : 93
+
+ inconsistenceSimple : 94
+
+ inconsistenceSimple : 95
+
+ inconsistenceSimple : 96
+
+ inconsistenceSimple : 97
+
+ inconsistenceSimple : 98
+
+ inconsistenceSimple : 99
+
+ inconsistenceSimple : 100
+
+ inconsistenceSimple : 101
+
+ inconsistenceSimple : 102
+
+ inconsistenceSimple : 103
+
+ inconsistenceSimple : 104
+
+ inconsistenceSimple : 105
+
+ inconsistenceSimple : 106
+
+ inconsistenceSimple : 107
+
+ inconsistenceSimple : 108
+
+ inconsistenceSimple : 109
+
+ inconsistenceSimple : 110
+
+ inconsistenceSimple : 111
+
+ inconsistenceSimple : 112
+
+ inconsistenceSimple : 113
+
+ inconsistenceSimple : 114
+
+ inconsistenceSimple : 115
+
+ inconsistenceSimple : 116
+
+ inconsistenceSimple : 117
+
+ inconsistenceSimple : 118
+
+ inconsistenceSimple : 119
+
+ inconsistenceSimple : 120
+
+ inconsistenceSimple : 121
+
+ inconsistenceSimple : 122
+
+ inconsistenceSimple : 123
+
+ inconsistenceSimple : 124
+
+ inconsistenceSimple : 125
+
+ inconsistenceSimple : 126
+
+ inconsistenceSimple : 127
+
+ inconsistenceSimple : 128
+
+ inconsistenceSimple : 129
+
+ inconsistenceSimple : 130
+
+ inconsistenceSimple : 131
+
+ inconsistenceSimple : 132
+
+ inconsistenceSimple : 133
+
+ inconsistenceSimple : 134
+
+ inconsistenceSimple : 135
+
+ inconsistenceSimple : 136
+
+ inconsistenceSimple : 137
+
+ inconsistenceSimple : 138
+
+ inconsistenceSimple : 139
+
+ inconsistenceSimple : 140
+
+ inconsistenceSimple : 141
+
+ inconsistenceSimple : 142
+
+ inconsistenceSimple : 143
+
+ inconsistenceSimple : 144
+
+ inconsistenceSimple : 145
+
+ inconsistenceSimple : 146
+
+ inconsistenceSimple : 147
+
+ inconsistenceSimple : 148
+
+ inconsistenceSimple : 149
+
+ inconsistenceSimple : 150
+
+ inconsistenceSimple : 151
+
+ inconsistenceSimple : 152
+
+ inconsistenceSimple : 153
+
+ inconsistenceSimple : 154
+
+ inconsistenceSimple : 155
+
+ inconsistenceSimple : 156
+
+ inconsistenceSimple : 157
+
+ inconsistenceSimple : 158
+
+ inconsistenceSimple : 159
+
+ inconsistenceSimple : 160
+
+ inconsistenceSimple : 161
+
+ inconsistenceSimple : 162
+
+ inconsistenceSimple : 163
+
+ inconsistenceSimple : 164
+
+ inconsistenceSimple : 165
+
+ inconsistenceSimple : 166
+
+ inconsistenceSimple : 167
+
+ inconsistenceSimple : 168
+
+ inconsistenceSimple : 169
+
+ inconsistenceSimple : 170
+
+ inconsistenceSimple : 171
+
+ inconsistenceSimple : 172
+
+ inconsistenceSimple : 173
+
+ inconsistenceSimple : 174
+
+ inconsistenceSimple : 175
+
+ inconsistenceSimple : 176
+
+ inconsistenceSimple : 177
+
+ inconsistenceSimple : 178
+
+ inconsistenceSimple : 179
+
+ inconsistenceSimple : 180
+
+ inconsistenceSimple : 181
+
+ inconsistenceSimple : 182
+
+ inconsistenceSimple : 183
+
+ inconsistenceSimple : 184
+
+ inconsistenceSimple : 185
+
+ inconsistenceSimple : 186
+
+ inconsistenceSimple : 187
+
+ inconsistenceSimple : 188
+
+ inconsistenceSimple : 189
+
+ inconsistenceSimple : 190
+
+ inconsistenceSimple : 191
+
+ inconsistenceSimple : 192
+
+ inconsistenceSimple : 193
+
+ inconsistenceSimple : 194
+
+ inconsistenceSimple : 195
+
+ inconsistenceSimple : 196
+
+ inconsistenceSimple : 197
+
+ inconsistenceSimple : 198
+
+ inconsistenceSimple : 199
+
+ inconsistenceSimple : 200
+
+ inconsistenceSimple : 201
+
+ inconsistenceSimple : 202
+
+ inconsistenceSimple : 203
+
+ inconsistenceSimple : 204
+
+ inconsistenceSimple : 205
+
+ inconsistenceSimple : 206
+
+ inconsistenceSimple : 207
+
+ inconsistenceSimple : 208
+
+ inconsistenceSimple : 209
+
+ inconsistenceSimple : 210
+
+ inconsistenceSimple : 211
+
+ inconsistenceSimple : 212
+
+ inconsistenceSimple : 213
+
+ inconsistenceSimple : 214
+
+ inconsistenceSimple : 215
+
+ inconsistenceSimple : 216
+
+ inconsistenceSimple : 217
+
+ inconsistenceSimple : 218
+
+ inconsistenceSimple : 219
+
+ inconsistenceSimple : 220
+
+ inconsistenceSimple : 221
+
+ inconsistenceSimple : 222
+
+ inconsistenceSimple : 223
+
+ inconsistenceSimple : 224
+
+ inconsistenceSimple : 225
+
+ inconsistenceSimple : 226
+
+ inconsistenceSimple : 227
+
+ inconsistenceSimple : 228
+
+ inconsistenceSimple : 229
+
+ inconsistenceSimple : 230
+
+ inconsistenceSimple : 231
+
+ inconsistenceSimple : 232
+
+ inconsistenceSimple : 233
+
+ inconsistenceSimple : 234
+
+ inconsistenceSimple : 235
+
+ inconsistenceSimple : 236
+
+ inconsistenceSimple : 237
+
+ inconsistenceSimple : 238
+
+ inconsistenceSimple : 239
+
+ inconsistenceSimple : 240
+
+ inconsistenceSimple : 241
+
+ inconsistenceSimple : 242
+
+ inconsistenceSimple : 243
+
+ inconsistenceSimple : 244
+
+ inconsistenceSimple : 245
+
+ inconsistenceSimple : 246
+
+ inconsistenceSimple : 247
+
+ inconsistenceSimple : 248
+
+ inconsistenceSimple : 249
+
+ inconsistenceSimple : 250
+
+ inconsistenceSimple : 251
+
+ inconsistenceSimple : 252
+
+ inconsistenceSimple : 253
+
+ inconsistenceSimple : 254
+
+ inconsistenceSimple : 255
+
+ inconsistenceSimple : 256
+
+ inconsistenceSimple : 257
+
+ inconsistenceSimple : 258
+
+ inconsistenceSimple : 259
+
+ inconsistenceSimple : 260
+
+ inconsistenceSimple : 261
+
+ inconsistenceSimple : 262
+
+ inconsistenceSimple : 263
+
+ inconsistenceSimple : 264
+
+ inconsistenceSimple : 265
+
+ inconsistenceSimple : 266
+
+ inconsistenceSimple : 267
+
+ inconsistenceSimple : 268
+
+ inconsistenceSimple : 269
+
+ inconsistenceSimple : 270
+
+ inconsistenceSimple : 271
+
+ inconsistenceSimple : 272
+
+ inconsistenceSimple : 273
+
+ inconsistenceSimple : 274
+
+ inconsistenceSimple : 275
+
+ inconsistenceSimple : 276
+
+ inconsistenceSimple : 277
+
+ inconsistenceSimple : 278
+
+ inconsistenceSimple : 279
+
+ inconsistenceSimple : 280
+
+ inconsistenceSimple : 281
+
+ inconsistenceSimple : 282
+
+ inconsistenceSimple : 283
+
+ inconsistenceSimple : 284
+
+ inconsistenceSimple : 285
+
+ inconsistenceSimple : 286
+
+ inconsistenceSimple : 287

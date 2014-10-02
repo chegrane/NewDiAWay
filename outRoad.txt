@@ -1,0 +1,33 @@
+
+
+ chemin de la diago 76 recherche CheminUnVersDeux
+
+ 
+ numDiag :27  coti :1  seq num :1 
+ numDiag :27  coti :2  seq num :3 
+ numDiag :73  coti :1  seq num :3 
+ numDiag :73  coti :2  seq num :5
+
+ chemin de la diago 76 recherche CheminDeuxVersUn
+
+ 
+ numDiag :73  coti :2  seq num :5 
+ numDiag :73  coti :1  seq num :3 
+ numDiag :27  coti :2  seq num :3 
+ numDiag :27  coti :1  seq num :1
+
+ chemin de la diago 76 recherche CheminUnVersDeux
+
+ 
+ numDiag :27  coti :1  seq num :1 
+ numDiag :27  coti :2  seq num :3 
+ numDiag :73  coti :1  seq num :3 
+ numDiag :73  coti :2  seq num :5
+
+ chemin de la diago 76 recherche CheminDeuxVersUn
+
+ 
+ numDiag :73  coti :2  seq num :5 
+ numDiag :73  coti :1  seq num :3 
+ numDiag :27  coti :2  seq num :3 
+ numDiag :27  coti :1  seq num :1
